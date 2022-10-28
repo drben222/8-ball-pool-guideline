@@ -8,9 +8,8 @@ on:
       - 'v*'
 
 jobs:  
-  compile:
+  apk:
     name: Generate APK
-    needs: test
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
