@@ -25,7 +25,7 @@
 
     <!-- Board -->
     <!-- 1954,125 px -->
-    <dimen name="boardWidth" tools:ignore="PxUsage">1954px</dimen> <!-- 84.375% of X -->
+    <dimen name="boardWidth" tools:ignore="PxUsage">1954.125px</dimen> <!-- 84.375% of X -->
     
     <dimen name="boardHeight" tools:ignore="PxUsage">897px</dimen> <!-- 83.055555555556% of Y -->
     
@@ -33,7 +33,7 @@
 
     <!-- Canvas -->
     <!-- 1758,7125 px -->
-    <dimen name="canvasWidth" tools:ignore="PxUsage">1749px</dimen> <!-- 90% of boardWidth -->
+    <dimen name="canvasWidth" tools:ignore="PxUsage">1758.7125px</dimen> <!-- 90% of boardWidth -->
     
     <dimen name="canvasHeight" tools:ignore="PxUsage">731px</dimen> <!-- 81.49386845039% of boardHeight -->
     <dimen name="canvasMarginTop" tools:ignore="PxUsage">82px</dimen> <!-- 9.1415830546265% of boardHeight -->
