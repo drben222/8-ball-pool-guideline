@@ -1,4 +1,4 @@
-package app.hack.eightballpool;
+package app.gitlab.mergerequest;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("app.hack.eightballpool", appContext.getPackageName());
+        assertEquals("app.gitlab.mergerequest", appContext.getPackageName());
     }
 }

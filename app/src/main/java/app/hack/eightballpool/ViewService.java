@@ -1,4 +1,4 @@
-package app.hack.eightballpool;
+package app.gitlab.mergerequest;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -27,7 +27,7 @@ import androidx.core.app.NotificationCompat;
 
 import java.util.Objects;
 
-import static app.hack.eightballpool.App.CHANNEL_ID;
+import static app.gitlab.mergerequest.App.CHANNEL_ID;
 
 public class ViewService extends Service {
     private WindowManager windowManager;

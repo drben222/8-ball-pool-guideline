@@ -1,20 +1,20 @@
-- **Important**
+## Important
 
-*I am not responsible for the use of this hack*
+_I am not responsible for the use of this hack_
 
-You need to make changes to the *dimens.xml* file to fit the layout to the game table
+You need to make changes to the _dimens.xml_ file to fit the layout to the game table
 
 > Anti-ban, only if you follow these steps:
 
-- Do not use the same *package name* ( app.hack.eightballpool )
+- Do not use the same _package name_ ( app.gitlab.mergerequest )
 
-- Create a unique *package name* for your smartphone and don't share using the same name
+- Create a unique _package name_ for your smartphone and don't share using the same name
 
 - Do not post on the Play Store
 
 It is recommended that you also change the name of the app
 
-*Attention:* Do not test the hack on your smartphone without following the above steps
+_Attention:_ Do not test the hack on your smartphone without following the above steps
 
 > After you close and want to display the Menu again, shake your smartphone
 
@@ -45,6 +45,7 @@ https://www.youtube.com/playlist?list=PL1Z6DvZsu0GdBTJmiutGIktcVpQwFvaA0
 ![Screenshot_20201112-180023](https://user-images.githubusercontent.com/33843748/98998488-f7afcf80-2514-11eb-86fd-c8105c3d0494.png)
 
 > 9 Ball
+
 ##### Just a guide
 
 ![screenshot-nineball-one](https://user-images.githubusercontent.com/33843748/100782264-ee66a400-33ea-11eb-97a9-b986373829f2.jpg)

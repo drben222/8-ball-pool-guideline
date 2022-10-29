@@ -1,4 +1,4 @@
-package app.hack.eightballpool;
+package app.gitlab.mergerequest;
 
 import android.app.Application;
 import android.app.NotificationChannel;
